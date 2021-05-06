@@ -39,12 +39,7 @@
   }
   ?>
  
-  
-  
-  <body>
-   <p>Addresse ou mot de passe intouvables  ! </p>
-  <p>Veuillez ressaisir les bonnes informations svp </p>
-<a href="connexion.php">Se connecter </a>
+
 
     </body>
  </HTML>
